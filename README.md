@@ -1,6 +1,6 @@
 # Distributed Tree Classifier
 
-A simple distributed training system for tree classification using PyTorch.
+A simple distributed training system for tree classification using PyTorch. This architecture utilizes data parallelization, ideal for large-scale classification training.
 
 ## Setup
 
